@@ -55,3 +55,6 @@ O sistema foi desenvolvido como parte de uma avaliação acadêmica, com o objet
 3. Abra o terminal na pasta do arquivo e execute o comando:
    ```bash
    python lanchonete.py
+
+
+Desenvolvido com 💻 e ☕ por Fabio Thieres.
